@@ -5,3 +5,27 @@
 مصطلحات في git hub
 1- Repository (Repo) : Folder contains a project on github.
 2- Clone : to get a repo from GitHub to the local (my pc) (git clone -repo link- )
+
+---
+
+3- Git add . ( جالك اوفر في امريكا وبدأت تجهز ورقك)
+
+(ابعت الفايلات من ال
+local area
+الى ال
+working area)
+
+4- Git commit -m "رسالة نصية من اختيارك"  
+(روحت المطار وخدت ختم المرور قاعد في صالة الانتظار مستني الطيارة)
+
+(نقلت الفايلات من ال
+working area
+الي ال
+Staging area )
+
+5- Git push (روحت امريكا)
+(نقلت الفايلات من ال
+staging area
+الى ال
+Remote repository
+)
