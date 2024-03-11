@@ -30,7 +30,10 @@ staging area
 Remote repository
 )
 
-6- Branch
+6- Git pull (سحب التعديلات اللي علي الgithub)
+git add . + git commit -m ""
+
+7- Branch
 (يعني فرع : بيستخدم لما بنعوز نضيف فيتشر جديدة
 او
 لما نعوز نطلع فيرجن جديدة للابلكيشن
