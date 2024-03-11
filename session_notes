@@ -1,0 +1,7 @@
+- git hub: website used to ease working as a team in software projects
+- git hub is a version control method
+- there are a lot of version controls: git lab - azure
+
+مصطلحات في git hub
+1- Repository (Repo) : Folder contains a project on github.
+2- Clone : to get a repo from GitHub to the local (my pc) (git clone -repo link- )
