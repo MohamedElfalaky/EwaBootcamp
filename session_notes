@@ -31,7 +31,7 @@ Remote repository
 )
 
 6- Git pull (سحب التعديلات اللي علي الgithub)
-git add . + git commit -m ""
+git add . + git commit -m "" + git push
 
 7- Branch
 (يعني فرع : بيستخدم لما بنعوز نضيف فيتشر جديدة
