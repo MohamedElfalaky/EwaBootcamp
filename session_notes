@@ -44,3 +44,22 @@ git add . + git commit -m "" + git push
 
 -----------------------
 
+8- git branch : بيخليك تعرف ايه هي البرانشات اللي عندك وانت واقف علي اي برانش
+
+9- git branch (اسم البرانش الجديد): بيخليني اعمل برانش جديد بالاسم اللي انا اختارته
+
+10 - git checkout (اسم البرانش اللي عايز اروح عليه): swich me to another branch
+
+(تعديلات البرانش الجديد)
+
+11- git checkout -b (اسم البرانش): create new branch +  switch to it 
+
+12- git push --set-upstream origin (branch name ): push the new branch with its updates
+
+origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
+
+
+
+13- pull request: to ask the repo teamleader to marge my branch to the main(or any active branch) branch 
+
+14- marge  : is to marge our feature branch to the main (any production branch) branch again 
