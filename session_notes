@@ -52,9 +52,11 @@ git add . + git commit -m "" + git push
 
 (تعديلات البرانش الجديد)
 
-11- git push --set-upstream origin (branch name ): push the new branch with its updates
+11- git checkout -b (اسم البرانش): create new branch +  switch to it 
+
+12- git push --set-upstream origin (branch name ): push the new branch with its updates
 
 origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
 
 
-12- marge  : is to marge our feature branch to the main (any production branch) branch again 
+13- marge  : is to marge our feature branch to the main (any production branch) branch again 
