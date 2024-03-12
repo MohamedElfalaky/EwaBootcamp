@@ -50,3 +50,5 @@ git add . + git commit -m "" + git push
 
 origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
 
+
+9- marge  : is to marge our feature branch to the main (any production branch) branch again 
