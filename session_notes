@@ -59,4 +59,7 @@ git add . + git commit -m "" + git push
 origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
 
 
-13- marge  : is to marge our feature branch to the main (any production branch) branch again 
+
+13- pull request: to ask the repo teamleader to marge my branch to the main(or any active branch) branch 
+
+14- marge  : is to marge our feature branch to the main (any production branch) branch again 
