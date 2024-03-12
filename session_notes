@@ -46,9 +46,15 @@ git add . + git commit -m "" + git push
 
 8- git branch : بيخليك تعرف ايه هي البرانشات اللي عندك وانت واقف علي اي برانش
 
+9- git branch (اسم البرانش الجديد): بيخليني اعمل برانش جديد بالاسم اللي انا اختارته
+
+10 - git checkout (اسم البرانش اللي عايز اروح عليه): swich me to another branch
+
 (تعديلات البرانش الجديد)
+
+11- git push --set-upstream origin (branch name ): push the new branch with its updates
 
 origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
 
 
-9- marge  : is to marge our feature branch to the main (any production branch) branch again 
+12- marge  : is to marge our feature branch to the main (any production branch) branch again 
