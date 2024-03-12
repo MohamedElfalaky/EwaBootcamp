@@ -47,3 +47,6 @@ git add . + git commit -m "" + git push
 8- git branch : بيخليك تعرف ايه هي البرانشات اللي عندك وانت واقف علي اي برانش
 
 (تعديلات البرانش الجديد)
+
+origin : my repositry (the current repo that i am working on) https://github.com/MohamedElfalaky/EwaBootcamp
+
